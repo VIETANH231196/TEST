@@ -1,0 +1,3 @@
+﻿Cuối ngày 13/03/2018: Cần viết hàm trả lại cho chương trình thanh toán
+15h47p ngày 14/3/2018: Xong phần thanh toán của chương trình máy bán hàng
+Tiếp theo cần kết nối động cơ và kết hợp lưu trữ dữ liệu trong EEPROm
